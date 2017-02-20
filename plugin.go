@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/youaresofunny/plugintest/types"
+	"github.com/youaresofunny/gpplugin/types"
 )
 
 //Plugin is exported object, the core works with it
