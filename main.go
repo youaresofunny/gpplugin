@@ -3,7 +3,7 @@ package main
 import (
 	"plugin"
 
-	"github.com/youaresofunny/gpplugin/types"
+	"github.com/youaresofunny/gptypes"
 )
 
 func main() {
